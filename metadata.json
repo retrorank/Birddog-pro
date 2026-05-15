@@ -1,0 +1,8 @@
+{
+  "name": "Bird Dog Blueprint",
+  "description": "A comprehensive real estate deal sourcing training system for professional bird dogs. Learn to find, filter, and present high-value opportunities to investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
